@@ -115,3 +115,13 @@ body {
     display: block;  /* Puts the number on a new line */
     margin-top: 5px;
 }
+
+.name {
+    text-align: center;
+    font-size: 18px;
+    margin: 6px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #2c3e50;    
+}
